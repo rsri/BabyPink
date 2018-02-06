@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Baby Pink</string>
+    <string name="apply">Apply</string>
+    <string name="initial_submit_error">One or more values not selected</string>
+    <string name="error_occurred">An error occurred while fetching data</string>
+
+    <string-array name="countries">
+        <item>Pick a country</item>
+        <item>United States</item>
+        <item>India</item>
+        <item>Mexico</item>
+    </string-array>
+
+    <string-array name="empty_states">
+        <item>Pick a state</item>
+    </string-array>
+
+    <string-array name="india_states">
+        <item>Pick a state</item>
+        <item>Karnataka</item>
+        <item>Tamil Nadu</item>
+        <item>Maharashtra</item>
+    </string-array>
+
+    <string-array name="us_states">
+        <item>Pick a state</item>
+        <item>Ohio</item>
+        <item>Florida</item>
+        <item>California</item>
+    </string-array>
+
+    <string-array name="mexico_states">
+        <item>Pick a state</item>
+        <item>Puebla</item>
+        <item>Sinaloa</item>
+        <item>Veracruz</item>
+    </string-array>
+</resources>
